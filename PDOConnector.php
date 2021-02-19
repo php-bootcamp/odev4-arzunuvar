@@ -1,6 +1,7 @@
 <?php
 
 trait PDOConnector{
+      
       public function connect(){
   
       }
